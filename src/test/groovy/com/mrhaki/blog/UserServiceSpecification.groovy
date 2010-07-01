@@ -5,6 +5,7 @@ import spock.lang.Unroll
 
 class UserServiceSpecification extends Specification {
 
+    @Unroll("Expect to count #expectedCount users for following list #userList")
     def "Return total number of users"() {
         setup: 'Create UserService instance with users'
         UserService userService = new UserService(users: userList)
