@@ -1,0 +1,5 @@
+2010/7/1 もくもくGroovy
+* http://mrhaki.blogspot.com/2010/06/spock-spotlight-introduction-to-spock.html
+* これをそのまま試す。
+
+gradle test
