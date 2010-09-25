@@ -1,4 +1,4 @@
-package com.mrhaki.blog
+package net.tyama.expm
 
 class UserService {
 

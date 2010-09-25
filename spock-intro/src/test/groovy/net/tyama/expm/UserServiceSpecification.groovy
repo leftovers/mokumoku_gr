@@ -1,4 +1,4 @@
-package com.mrhaki.blog
+package net.tyama.expm
 
 import spock.lang.Specification
 import spock.lang.Unroll
